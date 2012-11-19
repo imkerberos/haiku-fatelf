@@ -1,4 +1,4 @@
-OUTPUT_FORMAT("elf32-i386-haiku", "elf32-i386-haiku", "elf32-i386-haiku")
+OUTPUT_FORMAT("elf32-i386-haiku")
 OUTPUT_ARCH(i386)
 
 ENTRY(runtime_loader)
